@@ -35,7 +35,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #3c4042;
+  background-color: #382323;
   margin-right: 10px;
   overflow: hidden;
   position: relative;
@@ -48,7 +48,7 @@ body {
   font-size: 29px;
   color: #f3f3f3;
   z-index: 999;
-  opacity: 0.2;
+  opacity: 0.3;
   transition: transform 0.3s ease-in-out, visibility 5s, opacity 0.5s ease-in-out;
 }
 
